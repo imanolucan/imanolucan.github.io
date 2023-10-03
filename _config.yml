@@ -24,17 +24,17 @@ resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>Mi nombre es Imanol Ucan, y soy un apasionado programador web con una profunda afinidad por el mundo digital. Desde mi temprana adolescencia, mi fascinación por la tecnología y la creatividad me condujo a explorar el vasto universo de la programación. Desde entonces, mi viaje en el desarrollo web ha sido una emocionante odisea de aprendizaje constante y experimentación.</p>"
-
+resume_section_experience: "<p>DigitalWeb Innovations-Desarrollador Web Junior, comencé mi carrera como Desarrollador Web Junior, donde adquirí una base sólida en programación web y me sumergí en el mundo del desarrollo de sitios web. Algunas de mis responsabilidades y logros durante mi tiempo en esta empresa fueron:Desarrollo Front-end: Creé sitios web atractivos y funcionales utilizando HTML, CSS y JavaScript, asegurándome de que fueran compatibles con múltiples navegadores y dispositivos.  Soporte Técnico: Brindé soporte técnico a los usuarios finales, solucionando problemas y realizando actualizaciones cuando fuera necesario. </p>"
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-remove the resume_looking_for_work:        "no"
+#remove the resume_looking_for_work:        "no"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience: "<p>DigitalWeb Innovations,- Desarrollador Web Junior. En DigitalWeb Innovations, comencé mi carrera como Desarrollador Web Junior, donde adquirí una base sólida en programación web y me sumergí en el mundo del desarrollo de sitios web. Algunas de mis responsabilidades y logros durante mi tiempo en esta empresa fueron: |Desarrollo Front-end: Creé sitios web atractivos y funcionales utilizando HTML, CSS y JavaScript, asegurándome de que fueran compatibles con múltiples navegadores y dispositivos|  |Soporte Técnico: Brindé soporte técnico a los usuarios finales, solucionando problemas y realizando actualizaciones cuando fuera necesario.|</p>" 
-resume_section_education:       true
+#resume_section_experience: "<p>DigitalWeb Innovations,- Desarrollador Web Junior. En DigitalWeb Innovations, comencé mi carrera como Desarrollador Web Junior, donde adquirí una base sólida en programación web y me sumergí en el mundo del desarrollo de sitios web. Algunas de mis responsabilidades y logros durante mi tiempo en esta empresa fueron: |Desarrollo Front-end: Creé sitios web atractivos y funcionales utilizando HTML, CSS y JavaScript, asegurándome de que fueran compatibles con múltiples navegadores y dispositivos|  |Soporte Técnico: Brindé soporte técnico a los usuarios finales, solucionando problemas y realizando actualizaciones cuando fuera necesario.|</p>" 
+#resume_section_education:       true
 #resume_section_projects:        true
 #resume_section_skills:          true
 #resume_section_recognition:     true
