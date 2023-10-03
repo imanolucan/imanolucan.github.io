@@ -29,7 +29,7 @@ resume_header_intro: "<p>Mi nombre es Imanol Ucan, y soy un apasionado programad
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-remove the resume_looking_for_work:        "yes"
+remove the resume_looking_for_work:        "no"
 
 # Decide which sections to use
 # comment out to hide
